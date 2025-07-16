@@ -57,7 +57,7 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-> cd my-folder
+> cd my-folder (Folder after filesare stored after cloning)
 > git clone [git@github.comm: ETL.git](https://github.com/Jonathan-Rop/KWS-Dashboard.git)
 
 ### Prerequisites
@@ -65,7 +65,7 @@ Clone this repository to your desired folder:
 To run this project you need:
 
 - GitHub account;
-- git installed on your OS.
+- Git installed on your OS.
 
 ### Install
 
@@ -78,6 +78,7 @@ To run this project you need:
 -  Install PostgreSQL
 -  Install Pandas
 -  Spark
+-  PostgreSQL/SQL
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
