@@ -2,7 +2,7 @@
 
 # KENYA WILDLIFE SERVICE-ETL
 
-A case study for visitors bothforeign and local visiting the Kenyan Tourism sector
+A case study for visitors (both foreign and local) visiting the Kenyan Tourism sector
 <a name="readme-top"></a>
 
 # <div align="center">BUILDING AN ETL</div>
@@ -40,9 +40,11 @@ In this Project, I have sourced files from an open source data, perfomed ETL pro
 </ul>
 
 ###  Key Features <a name="key-features"></a>
-
-- Using provided data to perfom ETLprocesses to provide data insights
-- Display of pandas and spark use in data manipulation
+- Show use of spark in databricks
+- Perform transformations on provided Data
+- Link the Gold layered data to a data warehouse
+- perform SQL transformations
+- Visualize with Grafana
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -56,7 +58,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 > cd my-folder
-> git clone [git@github.comm: ETL.git](https://github.com/Jonathan-Rop/RTV--ETL)
+> git clone [git@github.comm: ETL.git](https://github.com/Jonathan-Rop/KWS-Dashboard.git)
 
 ### Prerequisites
 
