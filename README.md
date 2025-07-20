@@ -7,19 +7,6 @@ A case study for visitors (both foreign and local) visiting the Kenyan Tourism s
 
 # <div align="center">BUILDING AN ETL</div>
 
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-
-- [🙏 Acknowledgements](#acknowledgements)
-
-- [📝 License](#license)
 With the rising numbers of tourism in Kenya, The Kenya wildlife service (KWS) has been recording an influx of visitors coming to see Kenya’s wildlife.
 Upon research and study on this information, I learnt that KWS has been receiving guests from an existing system (kwspay.ectizen.go.ke) but data has been always been extracted (for information/Metrics reasons) in a csv format.
 My idea of this problem statement is to automate some of these processes and improve on their data reporting and better handling to help the marketing department analyze data and improve more on their marketing stats to different countries selling Kenya’s tourism pride abroad
