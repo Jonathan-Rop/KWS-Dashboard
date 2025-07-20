@@ -1,11 +1,10 @@
 # KWS-Dashboard<img width="901" height="429" alt="ETL" src="https://github.com/user-attachments/assets/d0e74051-b25b-48ec-86b3-e3729052abd5" />
 
-# KENYA WILDLIFE SERVICE-ETL
-
-A case study for visitors (both foreign and local) visiting the Kenyan Tourism sector
 <a name="readme-top"></a>
 
-# <div align="center">BUILDING AN ETL</div>
+# <div align="center">KWS ETL</div>
+
+A case study for visitors (both foreign and local) visiting the Kenyan Tourism sector
 
 With the rising numbers of tourism in Kenya, The Kenya wildlife service (KWS) has been recording an influx of visitors coming to see Kenya’s wildlife.
 Upon research and study on this information, I learnt that KWS has been receiving guests from an existing system (kwspay.ectizen.go.ke) but data has been always been extracted (for information/Metrics reasons) in a csv format.
