@@ -11,21 +11,19 @@ Upon research and study on this information, I learnt that KWS has been receivin
 My idea of this problem statement is to automate some of these processes and improve on their data reporting and better handling to help the marketing department analyze data and improve more on their marketing stats to different countries selling Kenya’s tourism pride abroad
 
 
-In this Project, I have sourced files from an open source data, perfomed ETL processes using pyspark and visualization using Grafana:
+In this Project, I have sourced files from an open source data  (KWS), perfomed ETL processes using pyspark and visualization using Grafana:
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
   <ul>
-    <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">PYTHON</a></li> 
-  <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">PYSPARK</a></li>
-    <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">POSTGRESQL</a></li>
-    <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">GRAFANA</a></li>
+    <li><a href=https://www.python.org/>PYTHON</a></li> 
+  <li><a href="https://spark.apache.org/docs/latest/api/python/index.html)">PYSPARK</a></li>
+    <li><a href="https://www.postgresql.org/">POSTGRESQL</a></li>
+    <li><a href="https://grafana.com/">GRAFANA</a></li>
 
 </ul>
-### Visualization
-Check Dashboard links:  http://localhost:3000/d/9591870b-b380-41d8-b80a-ee33718edcba/patients-statistics?orgId=1&from=2018-01-23T12:10:19.406Z&to=2025-07-16T04:10:19.406Z&timezone=browser
 ###  Key Features <a name="key-features"></a>
 - Show use of spark in databricks
 - Perform transformations on provided Data
