@@ -4,7 +4,7 @@
 
 # <div align="center">KWS ETL</div>
 
-A case study for visitors (both foreign and local) visiting the Kenyan Tourism sector
+A case study for visitors (both foreign and local) visiting the Kenyan Tourism sector - Revamp Ongoing
 
 With the rising numbers of tourism in Kenya, The Kenya wildlife service (KWS) has been recording an influx of visitors coming to see Kenya’s wildlife.
 Upon research and study on this information, I learnt that KWS has been receiving guests from an existing system (kwspay.ectizen.go.ke) but data has been always been extracted (for information/Metrics reasons) in a csv format.
